@@ -76,8 +76,6 @@ Isso reduz a barreira técnica, permitindo que criminosos com habilidades limita
 
 A maior ameaça atual surge do cruzamento dessas duas modalidades: grupos de invasores operados por humanos usam a infraestrutura e os softwares fornecidos por plataformas de RaaS (como ocorreu com variantes conhecidas como LockBit, REvil ou DarkSide) para realizar invasões focadas e altamente lucrativas.
 
-# Miniguia de Estudo
-
 # Resumo
 
 A maioria dos ataques ransomware possuem etapas definidas. Os cibercriminosos entram no sistema das vítimas através de e-mails de phishing, engenharia social, entre outros. Os invasores roubam dados confidenciais, em seguida, o malware é executado para bloquear o acesso ao dispositivo/ sistema e para a vítima é apresentada uma mensagem de resgate com instruções para o pagamento em troca da chave de descriptografia. 
