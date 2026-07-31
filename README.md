@@ -76,7 +76,7 @@ Isso reduz a barreira técnica, permitindo que criminosos com habilidades limita
 
 A maior ameaça atual surge do cruzamento dessas duas modalidades: grupos de invasores operados por humanos usam a infraestrutura e os softwares fornecidos por plataformas de RaaS (como ocorreu com variantes conhecidas como LockBit, REvil ou DarkSide) para realizar invasões focadas e altamente lucrativas.
 
-## ** Miniguia de Estudo**
+# ** Miniguia de Estudo**
 
 #Resumo:
 
