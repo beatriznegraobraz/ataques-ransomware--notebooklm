@@ -93,7 +93,3 @@ Por fim, os ataques ransomware podem ser operados por humanos ou serviços (RaaS
 
 * Como acontece o ataque de ransomware? Existe um padrão ou há variações?
 * Qual variação de ataque é mais perigoso: por humanos ou RaaS?
-
-*
-*   há variações para o ataque ransomware?
-* Como se proteger de ataques ransomware?
